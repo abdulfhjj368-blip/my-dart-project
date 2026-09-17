@@ -1,2 +1,2 @@
-# my-dart-project
-"A collection of Dart programming exercises and mini-projects covering variables, control flow, and core language fundamentals."
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
